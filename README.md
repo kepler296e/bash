@@ -1,6 +1,6 @@
 # bash
 
-Execute [./main.sh](main.sh) to run.
+Execute [./menu.sh](menu.sh) to run.
 
 ----- Menu -----
 1. Show the first n numbers of the Fibonacci series
