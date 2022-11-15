@@ -1,6 +1,6 @@
 # bash
 
-Execute [./menu.sh](menu.sh) to run.
+Execute [./menu.sh](menu.sh) to run
 
 ```
 ----- Menu -----
