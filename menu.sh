@@ -24,6 +24,7 @@ while true; do
             ;;
         4)
             ./exit.sh
+            exit 0
             ;;
         *)
             echo "Invalid option"
